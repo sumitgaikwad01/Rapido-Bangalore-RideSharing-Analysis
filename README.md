@@ -5,7 +5,7 @@ This comprehensive Power BI project analyzes a ride-sharing dataset focused on t
 
 📊 Key Insights & Features
 1. Executive Overview
-    * KPI Tracking: Real-time visibility into Total Revenue (₹24.61M), Average Fare (₹547), and Gross Bookings (50K).
+    ** KPI Tracking: Real-time visibility into Total Revenue (₹24.61M), Average Fare (₹547), and Gross Bookings (50K).
 2. Revenue Growth:
     A time-series analysis showing a steady upward trajectory from June to August 2024.
 
