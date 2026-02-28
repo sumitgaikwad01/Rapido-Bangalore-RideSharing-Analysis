@@ -53,3 +53,14 @@ The goal was to provide actionable insights into service demand, driver efficien
 **Calculations:** DAX (Data Analysis Expressions) for complex measures like Revenue Growth Trajectory and Average Fare Premium.
 
 **Design:** Custom UI/UX layout with a consistent color theory for professional reporting.
+
+# 🚀 How to Use
+* Clone this repository.
+
+* Download and install Power BI Desktop.
+
+* Open the .pbix file to interact with the filters (Slicers) for Date, Service Type, and Ride Status.
+
+
+
+
