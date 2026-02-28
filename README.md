@@ -1,8 +1,8 @@
-# Rapido-Bangalore-RideSharing-Analysis
+
 
 ![Rapido Data Analysis & Business Intelligence Dashboard](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Executive%20Overview.png)
 
-
+# Rapido-Bangalore-RideSharing-Analysis
 This project involves a comprehensive end-to-end data analysis of Rapido’s ride-sharing operations in Bangalore. Using Power BI, I transformed raw transactional data into five specialized dashboard pages to monitor KPIs, optimize route efficiency, and analyze revenue streams.
 
 The goal was to provide actionable insights into service demand, driver efficiency, and payment trends to help stakeholders make data-driven decisions.
