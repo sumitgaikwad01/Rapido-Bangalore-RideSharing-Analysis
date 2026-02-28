@@ -31,7 +31,7 @@ The goal was to provide actionable insights into service demand, driver efficien
 
 3. **Fare Consistency:** Analyzed fare premiums across services, showing a stable average across Auto, Bike, and Cab Economy.
    
-
+![Geographical Analysis](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Geographical%20Analysis.png)
 1. **Demand Hotspots:** Mapped leading demand sources vs. top destinations. **Gottigere Landing** emerged as the top destination for completed rides.
 
 2.**Network Scale:** Managed analysis for over 13K unique destinations and sources.
