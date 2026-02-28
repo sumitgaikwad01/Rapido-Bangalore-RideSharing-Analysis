@@ -28,10 +28,10 @@ The goal was to provide actionable insights into service demand, driver efficien
 1. **Volume Leader:**                                                                                                                                                              * The **Bike service** leads ride volume (~15K rides), followed by Auto.
 
 2. **Cancellation Analysis:**
-      * Identified that Bikes experience the highest cancellation volume, signaling a need for better driver-partner retention or incentive structures      in that segment.
+     *  Identified that Bikes experience the highest cancellation volume, signaling a need for better driver-partner retention or incentive structures      in that segment.
 
 3. **Fare Consistency:**
-      * Analyzed fare premiums across services, showing a stable average across Auto, Bike, and Cab Economy.
+     * Analyzed fare premiums across services, showing a stable average across Auto, Bike, and Cab Economy.
    
 ![Geographical Analysis](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Geographical%20Analysis.png)
 1. **Demand Hotspots:**
