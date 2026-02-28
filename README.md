@@ -17,7 +17,7 @@ The goal was to provide actionable insights into service demand, driver efficien
     * A time-series analysis showing a steady upward trajectory from June to August 2024.
 
 3. **Top Performers:**
-    * Identified Kothanur Landing as the highest revenue-generating source (₹11.0K).   
+    * Identified Kothanur Landing as the highest revenue-generating source (₹11K).   
 
 
 
