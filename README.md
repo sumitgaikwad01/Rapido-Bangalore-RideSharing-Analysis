@@ -1,23 +1,23 @@
+
+![Rapido Data Analysis & Business Intelligence Dashboard](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Executive%20Overview.png)
+
 # Rapido-Bangalore-RideSharing-Analysis
 This comprehensive Power BI project analyzes a ride-sharing dataset focused on the Bangalore metropolitan area, spanning from June 17, 2024, to August 16, 2024. The project transforms raw transit data into actionable business intelligence.
 
 
-![Rapido Data Analysis & Business Intelligence Dashboard](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Executive%20Overview.png)
-
-
-📊 Key Insights & Features
-1. Executive Overview
+## 📊 Key Insights & Features
+1. **Executive Overview**
     * KPI Tracking: Real-time visibility into Total Revenue (₹24.61M), Average Fare (₹547), and Gross Bookings (50K).
-2. Revenue Growth:
+2. **Revenue Growth:**
     * A time-series analysis showing a steady upward trajectory from June to August 2024.
 
-3. Top Performers:
+3. **Top Performers:**
     * Identified Kothanur Landing as the highest revenue-generating source (₹11.0K).   
 
 
 ![Service](https://github.com/sumitgaikwad01/Rapido-Bangalore-RideSharing-Analysis/blob/main/Service%20Performance.png)
 
-1. Volume Leader: The Bike service leads ride volume (~15K rides), followed by Auto.
-2. Cancellation Analysis: Identified that Bikes experience the highest cancellation volume, signaling a need for better driver-partner retention or incentive structures in that     segment.
-3. Fare Consistency: Analyzed fare premiums across services, showing a stable average across Auto, Bike, and Cab Economy.
+1. **Volume Leader:** The Bike service leads ride volume (~15K rides), followed by Auto.
+2. **Cancellation Analysis:** Identified that Bikes experience the highest cancellation volume, signaling a need for better driver-partner retention or incentive structures in that     segment.
+3. **Fare Consistency:** Analyzed fare premiums across services, showing a stable average across Auto, Bike, and Cab Economy.
    
